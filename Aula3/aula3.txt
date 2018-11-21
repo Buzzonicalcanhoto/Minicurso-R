@@ -1,0 +1,5 @@
+"Nome"	"Idade"	"Altura"	"Cursos"
+"João"	22	1.81	"Estatística"
+"Lineu"	22	1.92	"Estatística"
+"Nilton"	20	1.82	"Estatística"
+"Willian"	19	1.69	"Estatística"

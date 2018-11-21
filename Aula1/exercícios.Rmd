@@ -1,0 +1,81 @@
+---
+title: "Exercícios"
+output: html_document
+---
+  
+
+  
+###1 
+  
+  a) Crie e armazene um vetor com uma sequêcia de que vai de 27 a 37.
+
+b) Crie e armazene a nova sequecia com os mesmos extremos porem selecionando apenas os números ímpares.
+
+---
+  
+###2
+  
+  Crie e armazene um vetor contendo 22 números aleatórios entre 0 e 1.
+
+---
+  
+###3 
+  
+  Verifique a classe do vetor criado em 1), e a transforme em uma classe caracter e armazene. O que ocorre ao  tentarmos voltar o vetor para a classe anterior?
+  
+---
+  
+### 4
+  
+  Repita  o argumento lógico (FALSE), 25 vezes e armazene.
+
+---
+  
+###5
+  
+  Crie uma função para que repita algo desejado 7 vezes.
+
+---
+  
+###6
+  
+  Remova o o vetor criado em 2).
+
+---
+  
+###7
+  Crie e armazene um vetor contendo alguns NA´S, e verifique por meio de alguma função se há algum NA em seu vetor e em seguida, veja se cada posição do vetor possui é ou não um na.
+
+---
+  
+###8
+  
+a) Crie e armazene uma matriz contendo 4 linhas e 5 colunas, com todos elementos de uma mesma coluna sendo iguais.
+
+b) Nomeie as linhas e colunas da matriz criada.
+
+c) Adicione um nova linha na matriz somente com zeros e armazene: dica(use a função rep()).
+
+d) Tranforme o vetor (5,6,7,8,9,0) em uma matriz 2 por 3, sem usar a função matrix.
+
+---
+  
+###9
+  
+a) Crie uma lista que contenho o vetor criado em 1), o vetor  criado em 2), e a matriz criada em 8) e armazene.
+
+
+b) Adicione a nova matriz criado no item D do ex 8 a sua lista.
+
+---
+  
+###10
+  
+  Crie um data frame com 4 colunas contendo as seguintes informações:
+  
+1. Nome de seu principais familiares.
+1. Dia do aniversário de cada um.
+1. Se é homem ou mulher.
+1. TRUE (Mulher), FALSE(Homem)
+
+---
